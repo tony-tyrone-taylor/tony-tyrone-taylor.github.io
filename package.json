@@ -1,0 +1,56 @@
+{
+  "name": "tony-tyrone-taylor.github.io",
+  "version": "1.0.0",
+  "description": "Freelance Full Stack Developer Web Portfolio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-tyrone-taylor/tony-tyrone-taylor.github.io.git"
+  },
+  "author": "Tony Taylor <tony.tyrone.taylor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-tyrone-taylor/tony-tyrone-taylor.github.io/issues"
+  },
+  "homepage": "https://github.com/tony-tyrone-taylor/tony-tyrone-taylor.github.io#readme",
+  "dependencies": {
+    "@angular/common": "^4.1.0",
+    "@angular/compiler": "^4.1.0",
+    "@angular/core": "^4.1.0",
+    "@angular/forms": "^4.1.0",
+    "@angular/http": "^4.1.0",
+    "@angular/platform-browser": "^4.1.0",
+    "@angular/platform-browser-dynamic": "^4.1.0",
+    "@angular/router": "^4.1.0",
+    "@angular/upgrade": "^4.1.0",
+    "angular-in-memory-web-api": "^0.3.1",
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.8",
+    "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "font-awesome-animation": "0.0.10",
+    "jquery": "^2.1.4",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.3.0",
+    "zone.js": "^0.8.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^2.1.2",
+    "gulp-webpack": "^1.5.0",
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2",
+    "typings": "^2.1.1",
+    "webpack": "^1.14.0"
+  }
+}

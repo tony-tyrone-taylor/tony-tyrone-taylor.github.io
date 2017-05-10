@@ -1,0 +1,20 @@
+[
+    {
+        "name":"home",
+        "icon":"",
+        "path":"/",
+        "title":"Home Page"
+    },
+    {
+        "name":"test a",
+        "icon":"",
+        "path":"/test-a",
+        "title":"Test A Page"
+    },
+    {
+        "name":"test b",
+        "icon":"",
+        "path":"/test-b",
+        "title":"Test B Page"
+    }
+]
