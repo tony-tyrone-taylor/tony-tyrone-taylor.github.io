@@ -1,3 +1,5 @@
+Options -Multiview
+
 RewriteEngine On
 RewriteBase /
 #RewriteRule ^index\.html$ - [L]
